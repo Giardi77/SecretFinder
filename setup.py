@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="secretfinder",
+    name="SecretFinder",
     version="1.0.0",
     author="m4ll0k",
     author_email="m4ll0k@example.com",
