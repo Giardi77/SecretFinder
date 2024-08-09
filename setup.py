@@ -19,7 +19,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'secretfinder=secretfinder:main',  # Replace with your script's main function
+            'SecretFinder=SecretFinder:main',  # Replace with your script's main function
         ],
     },
     classifiers=[
